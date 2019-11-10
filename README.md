@@ -11,3 +11,4 @@ Create a new branch:
 - git checkout -b babul-nokrek
 - git push origin babul-nokrek
 - git status
+- git pull
